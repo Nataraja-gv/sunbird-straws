@@ -16,12 +16,12 @@ const Footer = () => {
              </div>
                 <div className='footer-address' >
 
-                 <address>
+                 {/* <address>
                  Brown Reed Agri-Waste Innovations Pvt Ltd
              #595 D, Group Employees Layout, 1st A
                  Block, Lingadheeranahalli, Bangalore,
                  Karanataka, India - 560091
-                 </address> 
+                 </address>  */}
 
                  <address>
                  Zaphon Repurpose, Mayilmoola,

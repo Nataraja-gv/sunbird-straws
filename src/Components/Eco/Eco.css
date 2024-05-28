@@ -3,7 +3,8 @@
     display: inline-block;
     text-align: center;
     justify-content: center;
-     
+     margin-bottom: 20px;
+     margin-top: 20px;
 }
 
 .eco-left-conatiner{
@@ -14,7 +15,8 @@
 .eco-left-conatiner h1{
     font-size: 30px;
     font-weight: 400px;
-    color: rgb(16, 49, 2);;
+    color: rgb(16, 49, 2);
+    margin: auto 10px;
 
 }
 
@@ -48,6 +50,7 @@
         font-size: 25px;
         font-weight: 400px;
         color: rgb(16, 49, 2);;
+        margin-top: 20px;
     
     }
     .eco-right-conatiner{

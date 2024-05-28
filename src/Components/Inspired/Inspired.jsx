@@ -5,7 +5,7 @@ const Inspired = () => {
   return (
     <div className="inspierd-main-container">
       <div className="inspierd-top-section">
-        <h3>What inspired us to make the change?</h3>
+        <h3 className="inspierd-title">What inspired us to make the change?</h3>
       </div>
 
       <div className="inspierd-botton-section">

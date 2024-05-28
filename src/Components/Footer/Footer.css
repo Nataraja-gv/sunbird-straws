@@ -1,10 +1,8 @@
 .Footer-main-container {
-  /* background-color: rgb(235, 231, 29); */
-      
 }
 
 .footer-top-container {
-  background-color: #d9cbd0;
+  background-color: #522e3a;
   display: flex;
   justify-content: center;
   gap: 5%;
@@ -23,7 +21,7 @@
 
 .footer-address address {
   font-size: 13px;
-  color: black;
+  color: rgb(255, 255, 255);
   margin-top: 30px;
   margin-bottom: 20px;
   line-height: 20px;
@@ -53,7 +51,7 @@
 .footer-socail-section ul {
   list-style: none;
   text-align: start;
-  color: rgb(87, 87, 87);
+  color: white;
   font-size: 12px;
   line-height: 20px;
   text-align: start;
@@ -64,8 +62,7 @@
   align-items: center;
   justify-content: space-between;
   margin: 0 15%;
-  /* background-color: red; */
-
+  
 }
 
 .footer-bottom-container p {
