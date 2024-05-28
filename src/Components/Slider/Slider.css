@@ -52,8 +52,8 @@
   }
   
   .custom-dot {
-    width: 10px;
-    height: 10px;
+    width: 15px;
+    height: 15px;
     background-color: #eee9e9;
     border-radius: 45%;
     margin-right: 5px;
@@ -67,6 +67,14 @@
 
   
   .custom-dot.active {
-     background:rgb(179, 178, 181);
+    width: 15px;
+    height: 15px;
+     background:rgb(135, 93, 57);
   }
+
+@media screen and (min-width:360px) and (max-width:600px){
+  .custom-dot{
+    display: none;
+  }
+}
    
