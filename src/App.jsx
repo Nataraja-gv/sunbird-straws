@@ -5,7 +5,7 @@ import Footer from "./Components/Footer/Footer.jsx"
 import MobileNavbar from "./Components/MobileNavbar/MobileNavbar.jsx"
 function App() {
   return (
-  <div>
+  <div className="app-main-container">
    <div className="">
     <div className="desktop-nav">
     <Navbar/>

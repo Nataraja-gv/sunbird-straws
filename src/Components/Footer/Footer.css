@@ -1,4 +1,6 @@
 .Footer-main-container {
+  background-color: rgb(235, 231, 29);
+
 }
 
 .footer-top-container {
@@ -62,6 +64,8 @@
   align-items: center;
   justify-content: space-between;
   margin: 0 15%;
+  background-color: red;
+
 }
 
 .footer-bottom-container p {
