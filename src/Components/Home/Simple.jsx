@@ -24,16 +24,16 @@ const Simple = () => {
           </p>
         </div>
 
-        <div className="simple-right-action-section">
+        {/* <div className="simple-right-action-section">
         <div className="simple-right-btn1-section">
         <button className="btn1">Shop straws</button>
         </div>
         <div className="simple-right-btn2-section">
         <button className="btn2">Shop Pens</button>
-        </div>
+        </div> */}
            
            
-        </div>
+        {/* </div> */}
 
 
       </div>

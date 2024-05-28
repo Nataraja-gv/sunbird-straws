@@ -1,7 +1,7 @@
 .green-main-container{
     display: grid;
     grid-template-columns: 50% 50%;
-    gap:10%;
+    /* gap:10%; */
     background-color: rgb(250,234,212);
     
 }

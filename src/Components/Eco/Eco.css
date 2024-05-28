@@ -1,11 +1,18 @@
 .eco-main-container{
+    width: 100%;
     display: inline-block;
     text-align: center;
-    margin: 0 15%;
+    justify-content: center;
+     
+}
+
+.eco-left-conatiner{
+    width:100%;
+     
 }
 
 .eco-left-conatiner h1{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 400px;
     color: rgb(16, 49, 2);;
 
@@ -13,8 +20,10 @@
 
 .eco-right-conatiner{
     display: flex;
+    width:100%;
     margin: 50px 0px 0px 0px;
-    justify-content: space-between;
+    justify-content: center;
+    gap:20px;
 }
 
 .eco-card-container .eco-images{
