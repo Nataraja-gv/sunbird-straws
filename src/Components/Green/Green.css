@@ -65,4 +65,34 @@
     color:white;
     background-color: #522E3A;
 }
+
+@media screen and (min-width:360px) and (max-width:600px){
+    .green-main-container{
+        display: grid;
+        grid-template-columns: 100%;
+        /* gap:10%; */
+        background-color: rgb(250,234,212);
+        padding: 10px;
+    }
+
+    .green-left-container{
+        margin-left: 2%;
+    }
+    
+    .green-right-container{
+        margin-right:0%;
+        width: 100%;
+    }
+    .green-image{
+        width: 100%;
+        
+    }
+
+    .green-mark{
+        background-color:#522E3A ;
+    height: 2px;
+    margin: 20px 0;
+    width: 95%;
+    }
+}
  
