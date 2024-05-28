@@ -81,10 +81,31 @@
   .footer-top-container {
     background-color: #522e3a;
     display: flex;
-    justify-content: center;
+    justify-content: start;
     flex-direction: column;
     gap: 0%;
+    align-items:start;
+  }
+  .footer-bottom-container{
+    flex-direction: column;
     align-items: center;
+  justify-content: space-between;
+  margin:20px 5%;
+  }
+
+  .footer-title-image-section{
+    margin-left: 8%;
+  }
+  .footer-info-section {
+    margin-top: 20px;
+  }
+  
+  .footer-contact-section {
+    margin-top: 20px;
+  }
+  
+  .footer-socail-section {
+    margin-top: 20px;
   }
   
 }
