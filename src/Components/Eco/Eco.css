@@ -1,0 +1,49 @@
+.eco-main-container{
+    display: inline-block;
+    text-align: center;
+    margin: 0 15%;
+}
+
+.eco-left-conatiner h1{
+    font-size: 40px;
+    font-weight: 400px;
+    color: rgb(16, 49, 2);;
+
+}
+
+.eco-right-conatiner{
+    display: flex;
+    margin: 50px 0px 0px 0px;
+    justify-content: space-between;
+}
+
+.eco-card-container .eco-images{
+  width: 70px;
+  height: 70px;
+}
+
+.eco-card-container p{
+    font-size: 12px;
+    color:rgb(67, 79, 88) ;
+    font-weight: 300;
+    width: 200px;
+}
+
+@media screen and (min-width:360px) and (max-width:600px){
+    .eco-main-container{
+        width: 100%;
+    margin: 0 0%;
+
+    }
+    .eco-left-conatiner h1{
+        font-size: 25px;
+        font-weight: 400px;
+        color: rgb(16, 49, 2);;
+    
+    }
+    .eco-right-conatiner{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

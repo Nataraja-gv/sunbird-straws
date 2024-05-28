@@ -1,0 +1,68 @@
+.green-main-container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap:10%;
+    background-color: rgb(250,234,212);
+    
+}
+
+.green-left-container{
+    margin-left: 15%;
+}
+
+.green-right-container{
+    margin-right: 15%;
+}
+
+.green-left-container h1{
+    font-size: 25px;
+    color:rgb(16, 49, 2);
+    width: 60%;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+.green-left-container{display: inline-block;}
+
+.green-mark{
+    background-color:#522E3A ;
+    height: 2px;
+    margin: 20px auto
+}
+
+
+.green-left-container p{
+    font-size: 15px;
+    font-weight: 300;
+    color:rgb(88, 103, 80);
+}
+.green-image{
+    width: 80%;
+    
+}
+
+.green-production-container h4,
+.green-bulk-container h4{
+    color:rgb(67, 79, 88);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.green-bulk-container button,
+.green-production-container button{
+ font-size: 14px;
+ padding:8px 12px;
+ font-weight: 500;
+ border-radius: 20px;
+ border: none;
+ outline: none;
+ color:#522E3A;
+ display: inline-block;cursor: pointer;
+}
+
+.green-bulk-container:hover button,
+.green-production-container:hover button{
+    color:white;
+    background-color: #522E3A;
+}
+ 

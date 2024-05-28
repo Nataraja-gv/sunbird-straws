@@ -1,0 +1,43 @@
+.Navbar-main-container{
+     
+    display: flex;
+    justify-content: center;
+    gap:90px;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(250, 234, 212);
+  }
+  
+  
+  .bird-image{
+    width: 100px;
+    height: 30px;
+  }
+
+  .navbar-ul-menu-container{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 35%;
+    color:#522E3A
+  }
+
+  .navbar-ul-menu-container li{
+    font-size: 15px;
+    font-weight: 400;
+    /* line-height: 20px; */
+    text-transform: uppercase;
+  }
+
+  .navbar-profile-conatiner{
+    display: flex;
+   justify-content: space-between;
+    width: 8%;
+    color:#522E3A
+  }
+
+
+  
+
+
+   

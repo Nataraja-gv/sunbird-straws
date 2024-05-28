@@ -1,0 +1,71 @@
+
+.slider-main-container{
+    margin-top: 50px;
+    position: relative;
+    margin: 0 15%;
+}
+ .slider-slider-section{
+    width: 90%;
+    /* border: 2px solid green; */
+    display: inline-block;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+   border-bottom: 2px solid #522E3A;    
+}
+
+.slider-image{
+    width: 60%;
+}
+
+.slider-description-section p{
+    font-size: 15px;
+    color:rgb(181, 180, 180);
+}
+
+.slider-name-section p{
+ font-size: 18px;
+ font-weight: 700;
+ color:black;
+ margin-bottom: 40px;
+}
+
+.slider-h1{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+  color: rgb(16, 49, 2);
+  font-weight: 400px;
+
+}
+
+.slider-mark{
+    background-color: green;
+    width: 20%;
+    height: 5px;
+    border-radius: 10px;
+    margin: auto;
+}
+  
+  .custom-dot-list-style {
+    margin-top: 20px;
+  }
+  
+  .custom-dot {
+    width: 10px;
+    height: 10px;
+    background-color: #eee9e9;
+    border-radius: 45%;
+    margin-right: 5px;
+    position: relative;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+    cursor: pointer;
+     
+  }
+  
+
+  
+  .custom-dot.active {
+     background:rgb(179, 178, 181);
+  }
+   

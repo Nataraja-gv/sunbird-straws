@@ -1,0 +1,12 @@
+
+.mobile-nav-main-conatiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    margin: 0px 10%;
+}
+.m-nav-image{
+    width: 80px;
+    height: 30px;
+}
