@@ -70,3 +70,26 @@
     transform: scale(1.2);
     transition: transform 0.3s ease-in-out;  
 }
+
+@media screen and (min-width:360px) and (max-width:600px){
+    .award-info-container{
+        display: grid;
+        grid-template-columns: 45% 45%;
+        text-align: center;
+        column-gap: 10%;
+        
+    }
+
+    .award-description-section p{
+        font-size: 12px;
+    }
+    .award-image-image{
+        width: 50%;
+        height: 50px;
+    }
+    .award-details-container{
+        box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+       
+    }
+
+}

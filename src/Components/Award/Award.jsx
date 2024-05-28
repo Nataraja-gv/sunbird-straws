@@ -13,7 +13,7 @@ const Award = () => {
                  return(
                     <div className='award-details-container' key={index}>
                      <div className='award-description-section'>
-                        <p>{item.description}</p>
+                        <p>{item.description.slice(0,60)}</p>
                      </div>
 
                      <div className='awrd-image-section'>
