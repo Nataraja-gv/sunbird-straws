@@ -14,7 +14,8 @@
 .creating-social-description-conatiner p{
     font-size: 15px;
     font-weight: 300;
-    color:rgb(67, 79, 88)
+    color:rgb(67, 79, 88);
+    text-align: justify;
 }
 
 .creating-social-million-conatiner{
@@ -59,11 +60,16 @@
         color: rgb(16, 49, 2);
     
     } 
+    .creating-social-description-conatiner p{
+        text-align: justify;
+    }
 
     .creating-social-million-conatiner p{
         font-size: 13px;
         font-weight: 300;
         color:rgb(82, 46, 58);
+     text-align: justify;
+
     }
     .creating-social-million-conatiner h1{
         font-size: 18px;

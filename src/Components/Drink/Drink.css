@@ -53,4 +53,8 @@
     margin-right: 15%;
     margin-bottom: 30px;
     }
+
+    .drink-description p{
+        text-align: justify;
+    }
 }

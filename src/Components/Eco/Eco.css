@@ -58,4 +58,7 @@
         flex-direction: column;
         align-items: center;
     }
+.eco-card-container p{
+    text-align: justify;
+}
 }
