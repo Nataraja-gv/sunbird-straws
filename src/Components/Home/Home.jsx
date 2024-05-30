@@ -40,13 +40,13 @@ const Home = () => {
             <Inspired/>
           </div>
 
-          <div>
+          {/* <div>
             <Slider/>
           </div>
 
           <div className='award-home-section'>
             <Award/>
-          </div>
+          </div> */}
           <div>
             <Green/>
           </div>
