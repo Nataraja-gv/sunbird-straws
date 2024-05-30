@@ -69,12 +69,19 @@
         font-weight: 300;
         color:rgb(82, 46, 58);
      /* text-align: justify; */
+     text-align: center;
 
     }
     .creating-social-million-conatiner h1{
         font-size: 18px;
         font-weight: 600;
         color: rgb(16, 49, 2);
-         
+         text-align: center;
+         /* justify-content: center; */
+
        }
+
+.creating-social-story-section button{
+     
+}
 }

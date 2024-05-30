@@ -29,15 +29,17 @@
    
 }
 
+ 
+
 .inspierd-botton-left-section ul li {
   font-size: 14px;
   font-weight: 300;
   color: rgb(67, 79, 88);
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .mark {
   border-bottom: 2px solid #522e3a;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 
@@ -52,7 +54,7 @@
 @media screen and (min-width:360px) and (max-width:600px){
   .inspierd-main-container{
     background-color: rgb(250,234,212);
-     
+     padding: 7px;
    }
    .inspierd-botton-section {
     display: grid;
@@ -61,24 +63,32 @@
      
      
   }
+  
 
   .inspierd-botton-left-section{
-    margin-left: 5%;
+    margin-left: 2%;
   }
   
   .inspierd-botton-right-section{
-    margin-right: 2%;
+    margin-right: 0%;
   }
   .mark {
     border-bottom: 2px solid #522e3a;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     width: 90%;
   }
   .inspierd-botton-left-section ul li {
     width: 90%;
+  margin-bottom: 15px;
+  text-align: justify;
+
+  }
+
+  .inspierd-botton-right-section{
+    text-align: center;
   }
   .inspired-image{
-    width: 100%;
+    width: 95%;
     height: 350px;
 }
 .inspierd-botton-right-section{

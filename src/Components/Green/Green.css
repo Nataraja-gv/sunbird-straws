@@ -53,18 +53,19 @@
  font-size: 14px;
  padding:8px 12px;
  font-weight: 500;
- border-radius: 20px;
+ border-radius: 10px;
  border: none;
  outline: none;
- color:#522E3A;
+ background-color:#522E3A;
  display: inline-block;cursor: pointer;
+ color:white;
 }
 
-.green-bulk-container:hover button,
+/* .green-bulk-container:hover button,
 .green-production-container:hover button{
     color:white;
     background-color: #522E3A;
-}
+} */
 
 @media screen and (min-width:360px) and (max-width:600px){
     .green-main-container{
@@ -91,7 +92,7 @@
     .green-mark{
         background-color:#522E3A ;
     height: 2px;
-    margin: 20px 0;
+    margin: 10px 0;
     width: 95%;
     }
 }
