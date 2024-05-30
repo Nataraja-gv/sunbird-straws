@@ -10,7 +10,7 @@ const Creating = () => {
 
       <div className="creating-social-description-conatiner">
         <p>
-          We are a bangaluru based startup founded by Dr, Saji Varghese, which
+           Startup founded by Dr, Saji Varghese, which
           helps organisations fulfil its avowed mission of meeting the
           sustainability goals towards a greener and cleaner planet by: •
           Reducing the carbon footprint • Poverty alleviation by empowering
